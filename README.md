@@ -10,7 +10,8 @@
 * 城市: 成都
 * Tel: 18782973686
 * Email: 281040844@qq.com
-* Github: [tuoxiaozhong](https://github.com/tuoxiaozhong) 
+* Github: [tuoxiaozhong](https://github.com/tuoxiaozhong)
+* Blog: [IT_Tramp](http://qing.blog.sina.com.cn/tuoxiaozhong)
 
 
 ### 技能
