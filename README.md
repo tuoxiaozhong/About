@@ -16,10 +16,10 @@
 
 ### 技能
 
-* 专业课主修嵌入式软件开发，基础扎实
+* 专业课主修嵌入式软件开发
 * 熟悉C/C++、ASM等底层语言
 * 熟悉Linux、windows环境
-* 熟悉MySQL、SQLserver等数据库
+* 熟悉MySQL、mongoid、SQLserver等数据库
 * 擅长网页前端技术，如html、css、jQuery等
 * 2年以上Web开发经验
 * 自学C#，独立做过项目
