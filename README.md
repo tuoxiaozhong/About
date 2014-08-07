@@ -11,7 +11,7 @@
 * Tel: 18782973686
 * Email: 281040844@qq.com
 * Github: [tuoxiaozhong](https://github.com/tuoxiaozhong)
-* Blog: [Tramp](http://tuoxiaozhong.diandian.com/)
+* Blog: [Tramp](http://blog.csdn.net/tuoxz)
 
 
 ### 技能
