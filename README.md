@@ -11,7 +11,6 @@
 * Tel: 18782973686
 * Email: 281040844@qq.com
 * Github: [tuoxiaozhong](https://github.com/tuoxiaozhong)
-* Blog: [Tramp](http://blog.csdn.net/tuoxz)
 
 
 ### 技能
@@ -25,12 +24,13 @@
 * 现学现用
 
 ### 经验
-* ruby web开发
-* ruby app api
-* angular 后台架构
-* ionic 移动APP
-* nodejs 网站
-* nodejs api
+* 全程参与ruby web应用,至少5个
+* 用Ruby独立完成移动应用API
+* 构建angular后台,完成可复用的后台组件,实现单页操作
+* ionic开发跨平台APP
+* 用nodejs搭建门户网站
+* 根据个人需要写一些gem包
+* 学习React，没有项目经验
 
 ### 就职
 
