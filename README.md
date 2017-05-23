@@ -9,28 +9,16 @@
 * 英语: 四级
 * 城市: 成都
 * Tel: 18782973686
-* Email: 281040844@qq.com
+* Email: xiaozhong.tuo@gmail.com
 * Github: [tuoxiaozhong](https://github.com/tuoxiaozhong)
 
 
 ### 技能
 
-* 计算机专业
+* 计算机相关专业
 * 熟悉Linux、Mac OS、windows环境
-* ROR中级
-* 前端中级
-* Node初级
-* 3年左右Web开发经验
-* 现学现用
-
-### 经验
-* 全程参与ruby web应用,至少5个
-* 用Ruby独立完成移动应用API
-* 构建angular后台,完成可复用的后台组件,实现单页操作
-* ionic开发跨平台APP
-* 用nodejs搭建门户网站
-* 根据个人需要写一些gem包
-* 学习React，没有项目经验
+* ROR、Node、h5、MVVM framework
+* 3年以上Web开发经验
 
 ### 就职
 
