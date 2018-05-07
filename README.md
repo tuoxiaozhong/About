@@ -1,33 +1,24 @@
-## 个人简历
+## Resume
 
-### 资料
+### Info
 
-* 姓名: 庹小忠
-* 生日：1991-04-02
-* 性别：男
-* 学历: 在读研究生
-* 英语: 四级
-* 城市: 成都
-* Tel: 18782973686
-* Email: xiaozhong.tuo@gmail.com
+* Name: Xiaozhong.Tuo
+* Birthday：1991-04-02
+* Sex：Male
+* Education: Master
+* English: CET-4
+* City: Chengdu
 * Github: [tuoxiaozhong](https://github.com/tuoxiaozhong)
 
 
-### 技能
+### Skill
 
-* 计算机相关专业
-* 熟悉Linux、Mac OS、windows环境
-* ROR、Node、h5、MVVM framework
-* 3年以上Web开发经验
-
-### 就职
-
-* 2014年10月至今，比特大陆，做前端和Ruby
-
-### 寄语
-
-* 编程 = 修行
+* Unix/Windows
+* ROR/NODEJS
+* 4+ Years Web Experience
+* Good at WEB Front
 
 
+### Motto
 
-
+Be myself
