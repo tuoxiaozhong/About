@@ -14,10 +14,9 @@
 ### Skill
 
 * Unix/Windows
-* ROR/NODEJS
-* 4+ Years Web Experience
-* Good at WEB Front
-
+* Ruby/JS/Golang
+* 5+ Years Development Experience
+* Focus on Blockchain and AI
 
 ### Motto
 
